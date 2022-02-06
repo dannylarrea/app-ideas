@@ -22,7 +22,4 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 
 ## Example projects
 
--   [Joe Weaver's example](https://codepen.io/JoeWeaver/pen/bLbbxK)
--   [FreeCodeCamp Pomodoro Clock example](https://codepen.io/freeCodeCamp/full/XpKrrW)
--   [A desktop pomodoro app for menubar/tray.](https://github.com/amitmerchant1990/pomolectron)
 -   [Sheri Richardson's example](https://srd-pomodoro-timer.netlify.com/)
