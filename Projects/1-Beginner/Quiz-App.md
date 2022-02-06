@@ -8,9 +8,9 @@ As a developer you can create a quiz application for testing coding skills of ot
 
 ## User Stories
 
--   [ ] User can start the quiz when `load` the page or by pressing a `button`
+-   [ ] User can start the quiz when `load` the page
 -   [ ] User can see a question with 4 possible answers
--   [ ] After selecting an answer, display the next question to the User. Do this until the quiz is finished
+-   [ ] After selecting an answer and click Next Question button, display the next question to the User. Do this until the quiz is finished
 -   [ ] At the end, the User can see the following statistics
     -   Time it took to finish the quiz
     -   How many correct answers did he get
