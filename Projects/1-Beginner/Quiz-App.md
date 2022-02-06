@@ -18,7 +18,7 @@ As a developer you can create a quiz application for testing coding skills of ot
 -   [ ] User can start the quiz when `load` the page
 -   [ ] User can see a question with 4 possible answers
 -   [ ] After selecting an answer
-    -   if the answer is ok the button, it will show green, else it will show red
+    -   if the answer is ok it will show green, else it will show red
     -   the answer's buttons will disable
 -   [ ] After selecting an answer and click Next Question button, display the next question to the User. Do this until the quiz is finished
 -   [ ] At the end, the User can see the following statistics
