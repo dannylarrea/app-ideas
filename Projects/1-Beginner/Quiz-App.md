@@ -9,7 +9,7 @@ As a developer you can create a quiz application for testing coding skills of ot
 
 ### Constraints
 
--   Developers should use the [bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+-   Developers should use [bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
     -   [bootstrap buttons](https://getbootstrap.com/docs/4.0/components/buttons/)
     -   [bootstrap spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/)
 
