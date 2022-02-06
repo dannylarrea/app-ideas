@@ -6,15 +6,25 @@ Practice and test your knowledge by answering questions in a quiz application.
 
 As a developer you can create a quiz application for testing coding skills of other developers. (HTML, CSS, JavaScript, Python, PHP, etc...)
 
+
+### Constraints
+
+-   Developers should use the [bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+    -   [bootstrap buttons](https://getbootstrap.com/docs/4.0/components/buttons/)
+    -   [bootstrap spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/)
+
 ## User Stories
 
 -   [ ] User can start the quiz when `load` the page
 -   [ ] User can see a question with 4 possible answers
+-   [ ] After selecting an answer
+    -   if the answer is ok the button, it will show green, else it will show red
+    -   the answer's buttons will disable
 -   [ ] After selecting an answer and click Next Question button, display the next question to the User. Do this until the quiz is finished
 -   [ ] At the end, the User can see the following statistics
     -   Time it took to finish the quiz
     -   How many correct answers did he get
-    -   A button: start the quiz again
+    -   A button: `start the quiz again`
 
 ## Bonus features
 
